@@ -1,0 +1,9 @@
+{
+  "name": "MoreLogisticsSlots",
+  "version": "1.0.0",
+  "title": "More logistics slots",
+  "author": "Wenihal",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Adds more character logistics slots."
+}
