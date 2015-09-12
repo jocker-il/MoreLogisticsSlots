@@ -3,33 +3,6 @@ data:extend(
 {
   {
     type = "technology",
-    name = "character-logistic-slots-5",
-    icon = "__base__/graphics/technology/character-logistic-slots.png",
-    effects =
-    {
-      {
-        type = "character-logistic-slots",
-        modifier = 5
-      }
-    },
-    prerequisites = {"character-logistic-slots-4"},
-    unit =
-    {
-      count = 250,
-      ingredients =
-      {
-        {"science-pack-1", 1},
-        {"science-pack-2", 1},
-        {"science-pack-3", 1},
-        {"alien-science-pack", 1}
-      },
-      time = 30
-    },
-    upgrade = "true",
-    order = "c-k-e-d"
-  },
-  {
-    type = "technology",
     name = "character-logistic-slots-6",
     icon = "__base__/graphics/technology/character-logistic-slots.png",
     effects =
@@ -42,7 +15,7 @@ data:extend(
     prerequisites = {"character-logistic-slots-5"},
     unit =
     {
-      count = 500,
+      count = 750,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -53,7 +26,7 @@ data:extend(
       time = 30
     },
     upgrade = "true",
-    order = "c-k-e-d"
+    order = "c-k-e-f"
   },
    {
     type = "technology",
@@ -69,7 +42,7 @@ data:extend(
     prerequisites = {"character-logistic-slots-6"},
     unit =
     {
-      count = 750,
+      count = 1250,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -80,7 +53,7 @@ data:extend(
       time = 30
     },
     upgrade = "true",
-    order = "c-k-e-d"
+    order = "c-k-e-g"
   },
   {
     type = "technology",
@@ -96,7 +69,7 @@ data:extend(
     prerequisites = {"character-logistic-slots-7"},
     unit =
     {
-      count = 1000,
+      count = 1750,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -107,7 +80,7 @@ data:extend(
       time = 30
     },
     upgrade = "true",
-    order = "c-k-e-d"
+    order = "c-k-e-h"
   },
   {
     type = "technology",
@@ -123,7 +96,7 @@ data:extend(
     prerequisites = {"character-logistic-slots-8"},
     unit =
     {
-      count = 1500,
+      count = 2500,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -134,7 +107,7 @@ data:extend(
       time = 30
     },
     upgrade = "true",
-    order = "c-k-e-d"
+    order = "c-k-e-i"
   },
   {
     type = "technology",
@@ -150,7 +123,7 @@ data:extend(
     prerequisites = {"character-logistic-slots-9"},
     unit =
     {
-      count = 2000,
+      count = 4000,
       ingredients =
       {
         {"science-pack-1", 1},
@@ -161,6 +134,6 @@ data:extend(
       time = 30
     },
     upgrade = "true",
-    order = "c-k-e-d"
+    order = "c-k-e-j"
   }
 })
