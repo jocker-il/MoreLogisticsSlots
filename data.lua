@@ -3,40 +3,13 @@ data:extend(
 {
   {
     type = "technology",
-    name = "character-logistic-slots-6",
-    icon = "__base__/graphics/technology/character-logistic-slots.png",
-    effects =
-    {
-      {
-        type = "character-logistic-slots",
-        modifier = 5
-      }
-    },
-    prerequisites = {"character-logistic-slots-5"},
-    unit =
-    {
-      count = 750,
-      ingredients =
-      {
-        {"science-pack-1", 1},
-        {"science-pack-2", 1},
-        {"science-pack-3", 1},
-        {"alien-science-pack", 1}
-      },
-      time = 30
-    },
-    upgrade = "true",
-    order = "c-k-e-f"
-  },
-   {
-    type = "technology",
     name = "character-logistic-slots-7",
     icon = "__base__/graphics/technology/character-logistic-slots.png",
     effects =
     {
       {
         type = "character-logistic-slots",
-        modifier = 5
+        modifier = 6
       }
     },
     prerequisites = {"character-logistic-slots-6"},
@@ -48,7 +21,8 @@ data:extend(
         {"science-pack-1", 1},
         {"science-pack-2", 1},
         {"science-pack-3", 1},
-        {"alien-science-pack", 1}
+        {"production-science-pack", 1},
+        {"high-tech-science-pack", 1}
       },
       time = 30
     },
@@ -63,7 +37,7 @@ data:extend(
     {
       {
         type = "character-logistic-slots",
-        modifier = 5
+        modifier = 6
       }
     },
     prerequisites = {"character-logistic-slots-7"},
@@ -75,7 +49,8 @@ data:extend(
         {"science-pack-1", 1},
         {"science-pack-2", 1},
         {"science-pack-3", 1},
-        {"alien-science-pack", 1}
+        {"production-science-pack", 1},
+        {"high-tech-science-pack", 1}
       },
       time = 30
     },
@@ -90,7 +65,7 @@ data:extend(
     {
       {
         type = "character-logistic-slots",
-        modifier = 5
+        modifier = 6
       }
     },
     prerequisites = {"character-logistic-slots-8"},
@@ -102,7 +77,8 @@ data:extend(
         {"science-pack-1", 1},
         {"science-pack-2", 1},
         {"science-pack-3", 1},
-        {"alien-science-pack", 1}
+        {"production-science-pack", 1},
+        {"high-tech-science-pack", 1}
       },
       time = 30
     },
@@ -117,7 +93,7 @@ data:extend(
     {
       {
         type = "character-logistic-slots",
-        modifier = 5
+        modifier = 6
       }
     },
     prerequisites = {"character-logistic-slots-9"},
@@ -129,7 +105,8 @@ data:extend(
         {"science-pack-1", 1},
         {"science-pack-2", 1},
         {"science-pack-3", 1},
-        {"alien-science-pack", 1}
+        {"production-science-pack", 1},
+        {"high-tech-science-pack", 1}
       },
       time = 30
     },
