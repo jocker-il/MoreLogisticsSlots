@@ -5,6 +5,7 @@ data:extend(
     type = "technology",
     name = "character-logistic-slots-7",
     icon = "__base__/graphics/technology/character-logistic-slots.png",
+    icon_size = 128,
     effects =
     {
       {
@@ -18,11 +19,11 @@ data:extend(
       count = 1250,
       ingredients =
       {
-        {"science-pack-1", 1},
-        {"science-pack-2", 1},
-        {"science-pack-3", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1},
         {"production-science-pack", 1},
-        {"high-tech-science-pack", 1}
+        {"utility-science-pack", 1}
       },
       time = 30
     },
@@ -33,6 +34,7 @@ data:extend(
     type = "technology",
     name = "character-logistic-slots-8",
     icon = "__base__/graphics/technology/character-logistic-slots.png",
+    icon_size = 128,
     effects =
     {
       {
@@ -46,11 +48,11 @@ data:extend(
       count = 1750,
       ingredients =
       {
-        {"science-pack-1", 1},
-        {"science-pack-2", 1},
-        {"science-pack-3", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1},
         {"production-science-pack", 1},
-        {"high-tech-science-pack", 1}
+        {"utility-science-pack", 1}
       },
       time = 30
     },
@@ -61,6 +63,7 @@ data:extend(
     type = "technology",
     name = "character-logistic-slots-9",
     icon = "__base__/graphics/technology/character-logistic-slots.png",
+    icon_size = 128,
     effects =
     {
       {
@@ -74,11 +77,11 @@ data:extend(
       count = 2500,
       ingredients =
       {
-        {"science-pack-1", 1},
-        {"science-pack-2", 1},
-        {"science-pack-3", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1},
         {"production-science-pack", 1},
-        {"high-tech-science-pack", 1}
+        {"utility-science-pack", 1}
       },
       time = 30
     },
@@ -89,6 +92,7 @@ data:extend(
     type = "technology",
     name = "character-logistic-slots-10",
     icon = "__base__/graphics/technology/character-logistic-slots.png",
+    icon_size = 128,
     effects =
     {
       {
@@ -102,11 +106,11 @@ data:extend(
       count = 4000,
       ingredients =
       {
-        {"science-pack-1", 1},
-        {"science-pack-2", 1},
-        {"science-pack-3", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1},
         {"production-science-pack", 1},
-        {"high-tech-science-pack", 1}
+        {"utility-science-pack", 1}
       },
       time = 30
     },
