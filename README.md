@@ -10,6 +10,14 @@ but since he stoped updating the mod, I took it upon myself to import it into gi
 
 Change log:
 
+v1.4.0 - Updated for Factorio 0.17.x (tested on 0.17.47)
+
+Changes:
+
+- added "icon_size" parameter to every technology
+- renamed science packs (1,2,3 and "High-tech")
+
+
 v1.3.0 - Updated for Factorio 0.15.x (tested on 0.15.34)
 	
 	- Changed "info.json" file
