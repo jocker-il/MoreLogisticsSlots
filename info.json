@@ -1,10 +1,10 @@
 {
   "name": "MoreLogisticsSlots",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "title": "More logistics slots",
-  "author": "Wenihal. Updated by JoCkeR-il for 0.12 and up",
+  "author": "Wenihal. Updated by JoCkeR-il for Factorio 0.12 and up",
   "homepage": "https://github.com/jocker-il",
   "factorio_version": "0.17",  
-  "dependencies": ["base"],
-  "description": "Adds more character logistics slots (up to 10 slots). Reworked since 0.15, since the change to the science packs"
+  "dependencies": ["base >= 0.17.47"] ,
+  "description": "Adds more character logistics slots (up to 24 slots). Reworked since 0.15, since the change to the science packs"
 }
