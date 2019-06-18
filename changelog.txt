@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.4.1
+  Added:
+    - Thumbnail.png
+    - Changelog.txt
+    - limit minimum base to version 0.17.47
+---------------------------------------------------------------------------------------------------
+Version: 1.4.0
+  General:
+    - Updated for Factorio 0.17.x (tested on 0.17.47)
+  Changes:
+    - added "icon_size" parameter to every technology
+    - renamed science packs (1,2,3 and "High-tech")
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+  General:
+    - Updated for Factorio 0.15.x (tested on 0.15.34)
+  Changes:
+    - Updated info.json
+    - All recipes updated to the new science packs
+    - Removed level 6 since it's in the game
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0 
+  General:
+    - tested on 0.14.3
+  Changes:
+    - ".json" file
